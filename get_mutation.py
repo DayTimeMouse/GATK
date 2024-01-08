@@ -111,7 +111,7 @@ def main(hg38cds, maf, gene_id, out_path):
 if __name__ == "__main__":
     # hg38cds ='/home/ljz/year1/amlwes/mutation_aa/hg38_cds.fa'
     # maf ='/home/ljz/year1/amlwes/mutation_aa/merged_vep.maf'
-    # gene_id = 'PCF11'
+    # gene_id = 'RUNX1'
     # out_path = './'
     hg38cds = sys.argv[1]
     maf = sys.argv[2]
