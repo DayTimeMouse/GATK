@@ -1,2 +1,2 @@
 # GATK
-GATK pipeline for WES data
+GATK pipeline for WES data via snakemake.
